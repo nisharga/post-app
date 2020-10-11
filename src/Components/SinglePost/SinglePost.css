@@ -1,0 +1,10 @@
+.singlePost h3{
+    opacity: 0.4;
+}
+
+.singlePost h2 {
+    color: darkolivegreen;
+  }
+  .singlePost p {
+    color: red;
+  }

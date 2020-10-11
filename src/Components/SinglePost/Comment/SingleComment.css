@@ -1,0 +1,18 @@
+.comment h4 span {
+    color: brown !important;
+  
+  }
+  .singleComment{
+      border: 2px solid palevioletred;
+      padding: 10px 20px;
+      margin-bottom: 25px;
+  }
+
+  .singleComment img {
+	width: 150px;
+	border-radius: 50%;
+	height: 150px;
+	float: left;
+    margin-right: 50px;
+    margin-top: 12px;
+}

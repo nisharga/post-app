@@ -1,0 +1,26 @@
+.contact h1{
+    text-align: center;
+	color: darkgoldenrod;
+}
+
+.contactUs{
+    display: flex;
+}
+
+.address, .phone, .email{
+    width: 30%;
+}
+
+
+.contact h2 {
+    color: blueviolet; 
+  }
+  .contactUs h3 {
+    color: green;
+    
+  }
+  .contact{
+    color: green;
+     margin-bottom: 20px;
+  }
+  

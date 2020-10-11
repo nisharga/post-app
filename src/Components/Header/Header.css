@@ -1,0 +1,41 @@
+.nav{
+    background-color: crimson;
+    color: #fff;
+    margin-top: 0px !important;
+    padding-top: 0px !important;
+}
+.nav h2{
+    color: #fff;
+    font-size: 40px;
+}
+
+
+
+.nav {
+    padding-top: 1px !important;
+    padding-bottom: 3px !important;
+    position: relative;
+  }
+  .right-side {
+    position: absolute;
+    right: 0;
+    top: 55px;
+    margin-right: 40px;
+  }
+  .right-side a {
+    color: #fff;
+    padding: 0px 30px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+  }
+  .right-side a:hover{
+    color: black
+  }
+  html, body {
+    height: 100%;
+    width: 100%;
+  }
+  .nav a {
+    text-decoration: none;
+  }
